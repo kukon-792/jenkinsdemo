@@ -2,22 +2,22 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
     <line>
-      <![CDATA[Hello selenium]]>
+      <![CDATA[Hello java]]>
     </line>
   </reporter-output>
-  <suite started-at="2021-02-02T21:46:04Z" name="Default suite" finished-at="2021-02-02T21:46:04Z" duration-ms="52">
+  <suite started-at="2021-02-03T00:53:15Z" name="Default suite" finished-at="2021-02-03T00:53:15Z" duration-ms="46">
     <groups>
     </groups>
-    <test started-at="2021-02-02T21:46:04Z" name="Default test" finished-at="2021-02-02T21:46:04Z" duration-ms="52">
-      <class name="jenkins.Test0">
-        <test-method signature="demo()[pri:0, instance:jenkins.Test0@48524010]" started-at="2021-02-02T21:46:04Z" name="demo" finished-at="2021-02-02T21:46:04Z" duration-ms="16" status="PASS">
+    <test started-at="2021-02-03T00:53:15Z" name="Default test" finished-at="2021-02-03T00:53:15Z" duration-ms="46">
+      <class name="jenkins.Test1">
+        <test-method signature="demo1()[pri:0, instance:jenkins.Test1@48524010]" started-at="2021-02-03T00:53:15Z" name="demo1" finished-at="2021-02-03T00:53:15Z" duration-ms="13" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[Hello selenium]]>
+              <![CDATA[Hello java]]>
             </line>
           </reporter-output>
-        </test-method> <!-- demo -->
-      </class> <!-- jenkins.Test0 -->
+        </test-method> <!-- demo1 -->
+      </class> <!-- jenkins.Test1 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
